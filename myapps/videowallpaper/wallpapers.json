@@ -2,2827 +2,2827 @@
     "Categories": 
         [
             {
-                "name": "Abstract"
+                "name": "抽象"
             },
             {
-                "name": "AerialView"
+                "name": "视觉"
             },
             {
-                "name": "Animals"
+                "name": "动物"
             },
             {
-                "name": "Cute"
+                "name": "可爱"
             },
             {
-                "name": "Dark/Black"
+                "name": "暗黑风"
             },
             {
-                "name": "Fantasy"
+                "name": "梦幻"
             },
             {
-                "name": "Food"
+                "name": "美食"
             },
             {
-                "name": "Minimal"
+                "name": "清新"
             },
             {
-                "name": "Art/Design"
+                "name": "设计"
             },           
             {
-                "name": "Nature"
+                "name": "自然"
             },            
             {
-                "name": "Ocean/Beach"
+                "name": "海洋"
             },
             {
-                "name": "Mountain"
+                "name": "山脉"
             },           
             {
-                "name": "People"
+                "name": "人物"
             },
             {
-                "name": "Flowers/Plants"
+                "name": "植物"
             },
             {
-                "name": "Quotes"
+                "name": "Q风"
             },
             {
-                "name": "Space"
+                "name": "太空"
             },
             {
-                "name": "Sports"
+                "name": "运动"
             },
             {
-                "name": "World"
+                "name": "世界"
             }
         ],
     
 	"Wallpapers":
         [
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/afterglow001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/afterglow001.jpg",
 				"name": "After Glow",
-                "category": "Nature" 
+                "category": "自然" 
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/afternoon_tea001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/afternoon_tea001.jpg",
 				"name": "Afternoon Tea",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/airport001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/airport001.jpg",
 				"name": "Rainy Airport",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/all_you_need001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/all_you_need001.jpg",
 				"name": "All You Need",
-                "category": "Quotes"
+                "category": "Q风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ana001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ana001.jpg",
 				"name": "ANA",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/angry_cat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/angry_cat001.jpg",
 				"name": "Angry Cat",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon001.jpg",
 				"name": "Antelope Canyon",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon002.jpg",
 				"name": "Antelope Canyon",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/antelope_canyon005.jpg",
 				"name": "Antelope Canyon",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/apricot001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/apricot001.jpg",
 				"name": "Apricot",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arctic_iceberg001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arctic_iceberg001.jpg",
 				"name": "Arctic Icebery",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arctic_iceberg002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arctic_iceberg002.jpg",
 				"name": "Arctic Icebery",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arid_desolation001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/arid_desolation001.jpg",
 				"name": "Arid Desolation",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/asa_street_light_trail001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/asa_street_light_trail001.jpg",
 				"name": "Asa Street Light Trail",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/autumn_soup001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/autumn_soup001.jpg",
 				"name": "Autumn Soup",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/avocado001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/avocado001.jpg",
 				"name": "Avocado",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bad_girl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bad_girl001.jpg",
 				"name": "Bad Girl",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/badshahi_mosque001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/badshahi_mosque001.jpg",
 				"name": "Badshahi Mosque",
-                "category": "World,Dark/Black"
+                "category": "世界,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/balance001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/balance001.jpg",
 				"name": "Balance",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/balloon_fiesta.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/balloon_fiesta.jpg",
 				"name": "Balloon Fiesta",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/barcoo_island001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/barcoo_island001.jpg",
 				"name": "Barcoo Island",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/be_free001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/be_free001.jpg",
 				"name": "Be Free",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach001.jpg",
 				"name": "Beach 1",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach002.jpg",
 				"name": "Beach 2",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach003.jpg",
 				"name": "Beach 3",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach004.jpg",
 				"name": "Beach 4",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach005.jpg",
 				"name": "Beach 5",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beautiful_girl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beautiful_girl001.jpg",
 				"name": "Beautiful Girl",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/big_toy001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/big_toy001.jpg",
 				"name": "Big Toy",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bike_racer001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bike_racer001.jpg",
 				"name": "Bike Racer",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bike001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bike001.jpg",
 				"name": "Bike",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bikini_girl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bikini_girl001.jpg",
 				"name": "Bikini Girl",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/black_desert001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/black_desert001.jpg",
 				"name": "Black Desert",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/black_woman001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/black_woman001.jpg",
 				"name": "Black Woman",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blood_moon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blood_moon001.jpg",
 				"name": "Blood Moon",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blue_series001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blue_series001.jpg",
 				"name": "Blue Series",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blue_texture001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blue_texture001.jpg",
 				"name": "Blue Texture",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blueberry001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/blueberry001.jpg",
 				"name": "Blueberry",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/boat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/boat001.jpg",
 				"name": "Boat",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/boat002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/boat002.jpg",
 				"name": "Boats on Beach",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bondi_beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bondi_beach001.jpg",
 				"name": "Bondi Beach",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/borders001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/borders001.jpg",
 				"name": "Borders",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breakfast001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breakfast001.jpg",
 				"name": "Lovely Fruits",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breakfast002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breakfast002.jpg",
 				"name": "Breakfast",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breaking_the_pattern001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/breaking_the_pattern001.jpg",
 				"name": "Breaking the Pattern",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/broken_window001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/broken_window001.jpg",
 				"name": "Broken Window",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bronte_beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bronte_beach001.jpg",
 				"name": "Bronte Beach",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bryce_canyon_national_park001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bryce_canyon_national_park001.jpg",
 				"name": "Bryce Canyon National Park",
-                "category": "Nature,World"
+                "category": "自然,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bubo_scandiaca001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/bubo_scandiaca001.jpg",
 				"name": "Bubo Scandiaca",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/building001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/building001.jpg",
 				"name": "Building",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/burger001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/burger001.jpg",
 				"name": "Burger",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/butterfly_on_leaf001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/butterfly_on_leaf001.jpg",
 				"name": "Butterfly",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cafe_shop001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cafe_shop001.jpg",
 				"name": "Cafe Shop",
-                "category": "Dark/Black,Animals"
+                "category": "暗黑风,动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cake001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cake001.jpg",
 				"name": "Cake",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/camping001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/camping001.jpg",
 				"name": "Camping",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/canyon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/canyon001.jpg",
 				"name": "Canyon",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cape_nelson_lighthouse001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cape_nelson_lighthouse001.jpg",
 				"name": "Cape Nelson Lighthouse",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cappadocia001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cappadocia001.jpg",
 				"name": "Cappadocia",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/carolina001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/carolina001.jpg",
 				"name": "Carolina",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/caspian_sea001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/caspian_sea001.jpg",
 				"name": "Caspian Sea",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat001.jpg",
 				"name": "Cat",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat002.jpg",
 				"name": "Cat",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cat003.jpg",
 				"name": "Cat",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/catching_the_waves001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/catching_the_waves001.jpg",
 				"name": "Catching the Waves",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chicago_night001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chicago_night001.jpg",
 				"name": "Chicago Night",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chillin001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chillin001.jpg",
 				"name": "Chillin",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chimpanzee001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chimpanzee001.jpg",
 				"name": "Chimpanzee",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chocolately_goodness001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chocolately_goodness001.jpg",
 				"name": "Chocolately Goodness",
-                "category": "Cute"
+                "category": "可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chute_board001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/chute_board001.jpg",
 				"name": "Chute Board",
-                "category": "Sports,Minimal"
+                "category": "运动,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/circle001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/circle001.jpg",
 				"name": "Circles",
-                "category": "Dark/Black,Minimal"
+                "category": "暗黑风,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/city_lights001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/city_lights001.jpg",
 				"name": "City Light",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/clevedon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/clevedon001.jpg",
 				"name": "Clevedon",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/climb001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/climb001.jpg",
 				"name": "Climber",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/clown_fish001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/clown_fish001.jpg",
 				"name": "Clown Fish",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cocktail001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cocktail001.jpg",
 				"name": "Cocktail",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee_and_cake001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee_and_cake001.jpg",
 				"name": "Coffee and Cake",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee_beans001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee_beans001.jpg",
 				"name": "Coffee Beans",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/coffee001.jpg",
 				"name": "Coffee",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_fog001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_fog001.jpg",
 				"name": "Colorful Fog",
-                "category": "Abstract,Fantasy"
+                "category": "抽象,梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy001.jpg",
 				"name": "Colorful Galaxy",
-                "category": "Space"
+                "category": "太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy002.jpg",
 				"name": "Galaxy",
-                "category": "Space"
+                "category": "太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_galaxy003.jpg",
 				"name": "Galaxy",
-                "category": "Space"
+                "category": "太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_room001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/colorful_room001.jpg",
 				"name": "Colorful Room",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cookie001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cookie001.jpg",
 				"name": "Cookies",
-                "category": "Cute,Food"
+                "category": "可爱,美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cotton_andy_skies001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cotton_andy_skies001.jpg",
 				"name": "Cotton Andy Skies",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cracks_in_the_earth001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cracks_in_the_earth001.jpg",
 				"name": "Cracks",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cupcake001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cupcake001.jpg",
 				"name": "Cupcakes",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/curve001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/curve001.jpg",
 				"name": "Curve",
-                "category": "Dark/Black,Minimal"
+                "category": "暗黑风,清新"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cute_dog001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cute_dog001.jpg",
-				"name": "Cute Dog",
-                "category": "Cute,Animals"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/可爱_dog001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/可爱_dog001.jpg",
+				"name": "可爱 Dog",
+                "category": "可爱,动物"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cute_koala001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/cute_koala001.jpg",
-				"name": "Cute Koala",
-                "category": "Cute,Animals"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/可爱_koala001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/可爱_koala001.jpg",
+				"name": "可爱 Koala",
+                "category": "可爱,动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dancer001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dancer001.jpg",
 				"name": "Dancer",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dancer002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dancer002.jpg",
 				"name": "Dancer",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dandelion001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dandelion001.jpg",
 				"name": "Dandelion",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dark_flower001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dark_flower001.jpg",
 				"name": "Dark Flower",
-                "category": "Dark/Black,Flowers/Plants"
+                "category": "暗黑风,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dark_sunset001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dark_sunset001.jpg",
 				"name": "Dark Sunset",
-                "category": "Nature,Mountain"
+                "category": "自然,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deep_blue001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deep_blue001.jpg",
 				"name": "Deep Blue",
-                "category": "AerialView,Ocean/Beach"
+                "category": "视觉,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deep_underground001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deep_underground001.jpg",
 				"name": "Deep Underground",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deer001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deer001.jpg",
 				"name": "Deer",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deer002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/deer002.jpg",
 				"name": "Deer",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/desert001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/desert001.jpg",
 				"name": "Desert",
-                "category": "Nature,World"
+                "category": "自然,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/division001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/division001.jpg",
 				"name": "Division",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog001.jpg",
 				"name": "Dog",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog002.jpg",
 				"name": "Dog",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dog003.jpg",
 				"name": "Dog",
-                "category": "Dark/Black,Animals"
+                "category": "暗黑风,动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dont_let_go001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dont_let_go001.jpg",
 				"name": "Don't Let Go",
-                "category": "People,Fantasy"
+                "category": "人物,梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dont_look_down001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dont_look_down001.jpg",
 				"name": "Don't Look Down",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles001.jpg",
 				"name": "Doodles",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles002.jpg",
 				"name": "Doodles",
-                "category": "Art/Design,Abstract"
+                "category": "设计,抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles003.jpg",
 				"name": "Doodles",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles004.jpg",
 				"name": "Doodles",
-                "category": "Art/Design,Cute"
+                "category": "设计,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles005.jpg",
 				"name": "Doodles",
-                "category": "Art/Design,Abstract"
+                "category": "设计,抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles006.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/doodles006.jpg",
 				"name": "Doodles",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dorms001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dorms001.jpg",
 				"name": "Dorms",
-                "category": "Dark/Black,Minimal"
+                "category": "暗黑风,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/downhill001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/downhill001.jpg",
 				"name": "Downhill",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/downtown001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/downtown001.jpg",
 				"name": "Downtown",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/drips001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/drips001.jpg",
 				"name": "Drips",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dunes001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dunes001.jpg",
 				"name": "Dunes",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dureza_natural001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dureza_natural001.jpg",
 				"name": "Dureza Natural",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dwarf_tree_frog001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/dwarf_tree_frog001.jpg",
 				"name": "Dwarf Tree Frog",
-                "category": "Animals,Nature"
+                "category": "动物,自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/earth001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/earth001.jpg",
 				"name": "Earth",
-                "category": "Space,Dark/Black"
+                "category": "太空,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/earth002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/earth002.jpg",
 				"name": "Earth",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eggs001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eggs001.jpg",
 				"name": "Eggs",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eiffel_tower.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eiffel_tower.jpg",
 				"name": "Eiffel Tower",
-                "category": "World,Dark/Black"
+                "category": "世界,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/elephant001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/elephant001.jpg",
 				"name": "Elephant",
-                "category": "Animals,Dark/Black"
+                "category": "动物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/elephant002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/elephant002.jpg",
 				"name": "Elephant",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/emerald_tree_boa001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/emerald_tree_boa001.jpg",
 				"name": "Emerald Tree Boa",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/enjoy001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/enjoy001.jpg",
 				"name": "Enjoy",
-                "category": "Food,Quotes"
+                "category": "美食,Q风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eye_of_BrookeMaroon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/eye_of_BrookeMaroon001.jpg",
 				"name": "Eye",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/falling_down001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/falling_down001.jpg",
 				"name": "Falling Down",
-                "category": "Abstract,Art/Design,Dark/Black"
+                "category": "抽象,设计,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fine_art001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fine_art001.jpg",
 				"name": "Fine Art",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo001.jpg",
 				"name": "Flamingo",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo002.jpg",
 				"name": "Flamingo",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flamingo003.jpg",
 				"name": "Flamingo",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower001.jpg",
 				"name": "Flower",
-                "category": "Fantasy,Flowers/Plants"
+                "category": "梦幻,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower002.jpg",
 				"name": "Flower",
-                "category": "Dark/Black,Flowers/Plants"
+                "category": "暗黑风,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flower003.jpg",
 				"name": "Flower",
-                "category": "Dark/Black,Flowers/Plants"
+                "category": "暗黑风,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flowers_icecreame_tones001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/flowers_icecreame_tones001.jpg",
 				"name": "Icecream Flower",
-                "category": "Flowers/Plants,Cute"
+                "category": "植物,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/football_field001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/football_field001.jpg",
-				"name": "Foodball Field",
-                "category": "Sports,AerialView"
+				"name": "美食ball Field",
+                "category": "运动,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forde_abbey001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forde_abbey001.jpg",
 				"name": "Forde Abbey",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forest_strip001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forest_strip001.jpg",
 				"name": "Forest Strip",
-                "category": "Nature,AerialView"
+                "category": "自然,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forest001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/forest001.jpg",
 				"name": "Forest",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fox001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fox001.jpg",
 				"name": "Fox",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/frosty_heather_and_leaves001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/frosty_heather_and_leaves001.jpg",
 				"name": "Frosty Leaves",
-                "category": "Nature,Flowers/Plants"
+                "category": "自然,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fruits001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/fruits001.jpg",
 				"name": "Fruits",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/galaxy_smoothie_bowl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/galaxy_smoothie_bowl001.jpg",
 				"name": "Galaxy Smoothie Bowl",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/game_time001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/game_time001.jpg",
 				"name": "Game Time",
-                "category": "Sports,AerialView"
+                "category": "运动,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/giraffe_drainpipe_graffiti001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/giraffe_drainpipe_graffiti001.jpg",
 				"name": "Drainpipe Graffiti",
-                "category": "Art/Design,Cute"
+                "category": "设计,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/girl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/girl001.jpg",
 				"name": "Girl",
-                "category": "People,Dark/Black"
+                "category": "人物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/go_forth001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/go_forth001.jpg",
 				"name": "Go Forth",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/goat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/goat001.jpg",
 				"name": "Goat",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golden_glow001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golden_glow001.jpg",
 				"name": "Golden Glow",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golden_leaf001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golden_leaf001.jpg",
 				"name": "Golden Leaf",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golf_club001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/golf_club001.jpg",
 				"name": "Golf Club",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/graffiti_painting001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/graffiti_painting001.jpg",
 				"name": "Graffiti Painting",
-                "category": "Abstract,Art/Design"
+                "category": "抽象,设计"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grampian_milky_mountain.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grampian_milky_mountain.jpg",
-				"name": "Grampian Milky Mountain",
-                "category": "Mountain,Space"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grampian_milky_山脉.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grampian_milky_山脉.jpg",
+				"name": "Grampian Milky 山脉",
+                "category": "山脉,太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gray_horse001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gray_horse001.jpg",
 				"name": "Gray Horse",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/green_smoothie001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/green_smoothie001.jpg",
 				"name": "Green Smoothie",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grefsenkollen001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grefsenkollen001.jpg",
 				"name": "Grefsenkollen",
-                "category": "AerialView,Nature"
+                "category": "视觉,自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grip001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/grip001.jpg",
 				"name": "Grip",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gulls_feeding001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gulls_feeding001.jpg",
 				"name": "Gulls Feeding",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gym_life001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/gym_life001.jpg",
 				"name": "Gym Life",
-                "category": "People,Sports"
+                "category": "人物,运动"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/healthy_food001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/healthy_food001.jpg",
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/healthy_美食001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/healthy_美食001.jpg",
 				"name": "Healthy",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heating_balloon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heating_balloon001.jpg",
 				"name": "Heating Balloon",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heating_balloon002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heating_balloon002.jpg",
 				"name": "Heating Balloon",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/herne_bay001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/herne_bay001.jpg",
 				"name": "Herne Bay",
-                "category": "AerialView,Minimal"
+                "category": "视觉,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/highway001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/highway001.jpg",
 				"name": "Highway",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hilltop_kiss001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hilltop_kiss001.jpg",
 				"name": "Hilltop Kiss",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hoops001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hoops001.jpg",
 				"name": "Hoops",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hope001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hope001.jpg",
 				"name": "Hope",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/houses001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/houses001.jpg",
 				"name": "Houses",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hunger001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/hunger001.jpg",
 				"name": "Hunger",
-                "category": "Animals,Dark/Black"
+                "category": "动物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/i_need_cake001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/i_need_cake001.jpg",
 				"name": "I Need Cake",
-                "category": "Quotes,Food"
+                "category": "Q风,美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ice_hockey001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ice_hockey001.jpg",
 				"name": "Ice Hockey",
-                "category": "Sports,People"
+                "category": "运动,人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/icecream001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/icecream001.jpg",
 				"name": "Icecream",
-                "category": "Cute"
+                "category": "可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland001.jpg",
 				"name": "Iceland",
-                "category": "World,Minimal"
+                "category": "世界,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland002.jpg",
 				"name": "Iceland",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland003.jpg",
 				"name": "Iceland",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/iceland004.jpg",
 				"name": "Iceland",
-                "category": "World,Nature"
+                "category": "世界,自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/imaginary_forest001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/imaginary_forest001.jpg",
 				"name": "Imaginary Forest",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/incoming_tidal_waves001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/incoming_tidal_waves001.jpg",
 				"name": "Incoming Tidal Waves",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/infinite_ferns001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/infinite_ferns001.jpg",
 				"name": "Infinite Ferns",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/instant001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/instant001.jpg",
 				"name": "Instant",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_mountains001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_mountains001.jpg",
-				"name": "Into the Mountain",
-                "category": "AerialView,Mountain"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_山脉s001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_山脉s001.jpg",
+				"name": "Into the 山脉",
+                "category": "视觉,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_night001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/into_the_night001.jpg",
 				"name": "Into the Night",
-                "category": "Nature,Fantasy"
+                "category": "自然,梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/inverse_pyramid_color001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/inverse_pyramid_color001.jpg",
 				"name": "Inverse Pyramid Color",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ipoh001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ipoh001.jpg",
 				"name": "Ipoh",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/island_cabin001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/island_cabin001.jpg",
 				"name": "Island Cabin",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/japan001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/japan001.jpg",
 				"name": "Japan",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jellyfish001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jellyfish001.jpg",
 				"name": "Jellyfish",
-                "category": "Ocean/Beach,Animals"
+                "category": "海洋,动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jumping_for_joy001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jumping_for_joy001.jpg",
 				"name": "Jumping for Joy",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kalapana_lava_flow001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kalapana_lava_flow001.jpg",
 				"name": "Kalapana Lava Flow",
-                "category": "Nature,World"
+                "category": "自然,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kate_rogge001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kate_rogge001.jpg",
 				"name": "Kate Rogge",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kelingking_beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/kelingking_beach001.jpg",
 				"name": "Kelingking Beach",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/la_petregal001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/la_petregal001.jpg",
 				"name": "La Petregal",
-                "category": "AerialView,Ocean/Beach"
+                "category": "视觉,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lake_garden001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lake_garden001.jpg",
 				"name": "Lake Garden",
-                "category": "Nature,AerialView"
+                "category": "自然,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lake_powell001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lake_powell001.jpg",
 				"name": "Lake Powell",
-                "category": "Nature,Mountain"
+                "category": "自然,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/langkawi_island001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/langkawi_island001.jpg",
 				"name": "Lankawi Island",
-                "category": "AerialView,Ocean/Beach"
+                "category": "视觉,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf001.jpg",
 				"name": "Leaves",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf002.jpg",
 				"name": "Leaves",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leaf003.jpg",
 				"name": "Leaves",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lemon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lemon001.jpg",
 				"name": "Lemon",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lemon002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lemon002.jpg",
 				"name": "Lemon",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/light001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/light001.jpg",
 				"name": "Light",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lightning001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lightning001.jpg",
 				"name": "Lightning",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lion001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lion001.jpg",
 				"name": "Lion",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/little_girl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/little_girl001.jpg",
 				"name": "Little Girl",
-                "category": "People,Cute"
+                "category": "人物,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lone_surfer001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lone_surfer001.jpg",
 				"name": "Lone Surfer",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/looking_down001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/looking_down001.jpg",
 				"name": "Looking Down",
-                "category": "AerialView,Nature"
+                "category": "视觉,自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/looking_up001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/looking_up001.jpg",
 				"name": "Looking Up",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lost_in_yellow001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lost_in_yellow001.jpg",
 				"name": "Lost in Yellow",
-                "category": "Art/Design,Minimal"
+                "category": "设计,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lost001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/lost001.jpg",
 				"name": "Lost",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/louvain_la_neuve001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/louvain_la_neuve001.jpg",
 				"name": "Louvain La Neuve",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/love_and_mojitos001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/love_and_mojitos001.jpg",
 				"name": "Love and Mojitos",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/love_show001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/love_show001.jpg",
 				"name": "Love Show",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/Luana001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/Luana001.jpg",
 				"name": "Luana",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/macaw_parrot001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/macaw_parrot001.jpg",
 				"name": "Macaw Parrot",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/majesty001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/majesty001.jpg",
 				"name": "Majesty",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/maldives001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/maldives001.jpg",
 				"name": "Maldives",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/manhattan001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/manhattan001.jpg",
 				"name": "Manhattan",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mercedes_benz001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mercedes_benz001.jpg",
 				"name": "Mercedes Benz",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/minimal_religion001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/minimal_religion001.jpg",
-				"name": "Minimal Religion",
-                "category": "Minimal,Dark/Black"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/清新_religion001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/清新_religion001.jpg",
+				"name": "清新 Religion",
+                "category": "清新,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/missing_in_the_waves001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/missing_in_the_waves001.jpg",
 				"name": "Missing in Waves",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model001.jpg",
 				"name": "Model",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model002.jpg",
 				"name": "Model",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model003.jpg",
 				"name": "Model",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model004.jpg",
 				"name": "Model",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/model005.jpg",
 				"name": "Model",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mona_vale001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mona_vale001.jpg",
 				"name": "Mona Vale",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mona_vale002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mona_vale002.jpg",
 				"name": "Mona Vale",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monkey_business001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monkey_business001.jpg",
 				"name": "Monkey Business",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monochrome_ballet_feet001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monochrome_ballet_feet001.jpg",
 				"name": "Monochrome Ballet Feet",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monsters001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/monsters001.jpg",
 				"name": "Monsters",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/moon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/moon001.jpg",
 				"name": "Moon",
-                "category": "Nature,Space"
+                "category": "自然,太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mother_and_calf001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/mother_and_calf001.jpg",
 				"name": "Mother and Calf",
-                "category": "Animals,Ocean/Beach"
+                "category": "动物,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/motion_blur_woman001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/motion_blur_woman001.jpg",
 				"name": "Motion Blur Woman",
-                "category": "People,Dark/Black"
+                "category": "人物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/muay_thai_fight001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/muay_thai_fight001.jpg",
 				"name": "Muay Thai Fight",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nebula001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nebula001.jpg",
 				"name": "Nebula",
-                "category": "Space"
+                "category": "太空"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_jelly001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_jelly001.jpg",
 				"name": "Neon Jelly",
-                "category": "Animals,Ocean/Beach"
+                "category": "动物,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_jelly002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_jelly002.jpg",
 				"name": "Neon Jelly",
-                "category": "Animals,Ocean/Beach"
+                "category": "动物,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_memories001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neon_memories001.jpg",
 				"name": "Neon Memories",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neonstromo001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/neonstromo001.jpg",
 				"name": "Neonstromo",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nerja001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nerja001.jpg",
 				"name": "Nerja",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/night_city001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/night_city001.jpg",
 				"name": "Night City",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/night_light001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/night_light001.jpg",
 				"name": "Night Light",
-                "category": "Fantasy,Dark/Black"
+                "category": "梦幻,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nighty_sky001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/nighty_sky001.jpg",
 				"name": "Nighty Sky",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/noon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/noon001.jpg",
 				"name": "Moon",
-                "category": "Space,Dark/Black"
+                "category": "太空,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocea_and_rocks001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocea_and_rocks001.jpg",
 				"name": "Ocean and Rocks",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean_ridge001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean_ridge001.jpg",
 				"name": "Ocean Ridge",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean001.jpg",
 				"name": "Ocean",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ocean002.jpg",
 				"name": "Ocean",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/oceano_dunes001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/oceano_dunes001.jpg",
 				"name": "Oceano Dunes",
-                "category": "Mountain,Dark/Black"
+                "category": "山脉,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/old_harry_rocks001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/old_harry_rocks001.jpg",
 				"name": "Old Harry Rocks",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/old_way001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/old_way001.jpg",
 				"name": "Old Way",
-                "category": "People,World"
+                "category": "人物,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/on_target001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/on_target001.jpg",
 				"name": "On Target",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/owl_peeking_around_wall001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/owl_peeking_around_wall001.jpg",
 				"name": "Owl",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pantone001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pantone001.jpg",
 				"name": "Pantone",
-                "category": "Art/Design,Minimal"
+                "category": "设计,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/parrot001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/parrot001.jpg",
 				"name": "Parrot",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/partial_solar_eclipse001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/partial_solar_eclipse001.jpg",
 				"name": "Partial Solar Eclipse",
-                "category": "Space,Dark/Black"
+                "category": "太空,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/passeggiata_rivalunga001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/passeggiata_rivalunga001.jpg",
 				"name": "Passeggiata Rivalunga",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/passo_dello_stelvio001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/passo_dello_stelvio001.jpg",
 				"name": "Passo Dello Stelvio",
-                "category": "Nature,Fantasy,Mountain"
+                "category": "自然,梦幻,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/peace_love001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/peace_love001.jpg",
 				"name": "Peace Love",
-                "category": "Quotes"
+                "category": "Q风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/peacock_feathers001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/peacock_feathers001.jpg",
 				"name": "Peacock Feather",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/phoebe001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/phoebe001.jpg",
 				"name": "Phoebe",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pine_mountain001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pine_mountain001.jpg",
-				"name": "Pine Mountain",
-                "category": "Mountain"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pine_山脉001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pine_山脉001.jpg",
+				"name": "Pine 山脉",
+                "category": "山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_carnation_bouquets001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_carnation_bouquets001.jpg",
 				"name": "Pink Carnation Bouquets",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_sky001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_sky001.jpg",
 				"name": "Pink Sky",
-                "category": "Fantasy,Nature"
+                "category": "梦幻,自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_smoke_man001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pink_smoke_man001.jpg",
 				"name": "Pink Smoke Man",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/plant001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/plant001.jpg",
 				"name": "Plants",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/point_reyes_shipwreck001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/point_reyes_shipwreck001.jpg",
 				"name": "Point Reyes Shipwreck",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/poodle001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/poodle001.jpg",
 				"name": "Poodle",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/port_stephens_sunset001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/port_stephens_sunset001.jpg",
 				"name": "Port Stephens Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/power001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/power001.jpg",
 				"name": "Power",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pregerson_interchange001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pregerson_interchange001.jpg",
 				"name": "Pregerson Interchange",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pretty_accurate.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pretty_accurate.jpg",
 				"name": "Pretty Accurate",
-                "category": "Quotes"
+                "category": "Q风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pretty_in_pink001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/pretty_in_pink001.jpg",
 				"name": "Pretty in Pink",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_bell_peppers001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_bell_peppers001.jpg",
 				"name": "Purple Bell Peppers",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_dream001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_dream001.jpg",
 				"name": "Purple Dream",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_petals001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/purple_petals001.jpg",
 				"name": "Purple Petals",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/puzzle001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/puzzle001.jpg",
 				"name": "Puzzle",
-                "category": "Abstract,Dark/Black"
+                "category": "抽象,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rabbit001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rabbit001.jpg",
 				"name": "Rabit",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/racing001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/racing001.jpg",
 				"name": "Racing",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rainy_night001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rainy_night001.jpg",
 				"name": "Rainy Night",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/raspberry_blueberry001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/raspberry_blueberry001.jpg",
 				"name": "Raspberry and Blueberry",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rave_russia001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rave_russia001.jpg",
 				"name": "Rave Russia",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/reach_for_the_end001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/reach_for_the_end001.jpg",
 				"name": "Reach for the End",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_highlands001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_highlands001.jpg",
 				"name": "Red Highlands",
-                "category": "Nature,Mountain"
+                "category": "自然,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_hydrangea_clusters001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_hydrangea_clusters001.jpg",
 				"name": "Red Hydrangea Clusters",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_rose001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_rose001.jpg",
 				"name": "Red Rose",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_wall001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_wall001.jpg",
 				"name": "Red Wall",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/reef_beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/reef_beach001.jpg",
 				"name": "Reef Beach",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/regentville_bridge001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/regentville_bridge001.jpg",
 				"name": "Regentville Bridge",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/regentville_bridge002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/regentville_bridge002.jpg",
 				"name": "Regentville Bridge",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/road_after_sanstorm001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/road_after_sanstorm001.jpg",
 				"name": "Road after Sandstorm",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rock_wall_in_dark001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rock_wall_in_dark001.jpg",
 				"name": "Rock Wall",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/roundabouts001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/roundabouts001.jpg",
 				"name": "Roundabouts",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rusty_a001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/rusty_a001.jpg",
 				"name": "Rusty A",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sailing001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sailing001.jpg",
 				"name": "Sailing",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sailing002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sailing002.jpg",
 				"name": "Sailing",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sand_footprints001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sand_footprints001.jpg",
 				"name": "Sand Footprints",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/santis_after_storm001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/santis_after_storm001.jpg",
 				"name": "Santis after Storm",
-                "category": "Mountain,Dark/Black"
+                "category": "山脉,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/scrawl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/scrawl001.jpg",
 				"name": "Scraw",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seahorse001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seahorse001.jpg",
 				"name": "Seahorse",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seattle_space_needle001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seattle_space_needle001.jpg",
-				"name": "Seattle Space Needle",
-                "category": "World"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seattle_太空_needle001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seattle_太空_needle001.jpg",
+				"name": "Seattle 太空 Needle",
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ships001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/ships001.jpg",
 				"name": "Ships",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/shootingstar001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/shootingstar001.jpg",
 				"name": "Shooting Star",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/silhouette001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/silhouette001.jpg",
 				"name": "Silhouette",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/simple_color_paper001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/simple_color_paper001.jpg",
 				"name": "Color Papers",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/skater001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/skater001.jpg",
 				"name": "Skater",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/smoke_behind001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/smoke_behind001.jpg",
 				"name": "Smoke Behind",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/snow_covered_forests001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/snow_covered_forests001.jpg",
 				"name": "Snow Covered",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/soft_curls001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/soft_curls001.jpg",
 				"name": "Soft Curls",
-                "category": "People"
+                "category": "人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/spark001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/spark001.jpg",
 				"name": "Spark",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/spark002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/spark002.jpg",
 				"name": "Spark",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sparkler_for_you001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sparkler_for_you001.jpg",
 				"name": "Sparkler for You",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
-				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sports001.jpg",
-				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sports001.jpg",
-				"name": "Sports",
-                "category": "Sports"
+				"author": "网络资源",
+				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/运动001.jpg",
+				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/运动001.jpg",
+				"name": "运动",
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/squirrel001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/squirrel001.jpg",
 				"name": "Squirrel",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stair001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stair001.jpg",
 				"name": "Stair",
-                "category": "Minimal"
+                "category": "清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stair002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stair002.jpg",
 				"name": "Stair",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stakkholtsgia_canyon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stakkholtsgia_canyon001.jpg",
 				"name": "Stakkholtsgia Canyon",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starfish001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starfish001.jpg",
 				"name": "Starfish",
-                "category": "Animals,Ocean/Beach"
+                "category": "动物,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starfish002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starfish002.jpg",
 				"name": "Starfish",
-                "category": "Animals,Ocean/Beach"
+                "category": "动物,海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starry_sky001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starry_sky001.jpg",
 				"name": "Starry Sky",
-                "category": "Nature,Mountain"
+                "category": "自然,山脉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starry_sky002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/starry_sky002.jpg",
 				"name": "Starry Sky",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/statue_of_liberty001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/statue_of_liberty001.jpg",
 				"name": "Statue of Liberty",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stockton_beach001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/stockton_beach001.jpg",
 				"name": "Stockton Beach",
-                "category": "Fantasy"
+                "category": "梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/strawberry001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/strawberry001.jpg",
 				"name": "Strawberry",
-                "category": "Food"
+                "category": "美食"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent001.jpg",
 				"name": "Succulent",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent002.jpg",
 				"name": "Succulent",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent003.jpg",
 				"name": "Succulent",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent004.jpg",
 				"name": "Succulent",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/succulent005.jpg",
 				"name": "Succulent",
-                "category": "Flowers/Plants,Dark/Black"
+                "category": "植物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunken001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunken001.jpg",
 				"name": "Sunken",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset_strip_sidewalk_sign001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset_strip_sidewalk_sign001.jpg",
 				"name": "Sunset Strip Sidewalk Sign",
-                "category": "Quotes,World"
+                "category": "Q风,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset001.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset002.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset003.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/super_dog001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/super_dog001.jpg",
 				"name": "Super Dog",
-                "category": "Cute,Animals"
+                "category": "可爱,动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/superior_charteer_township001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/superior_charteer_township001.jpg",
 				"name": "Superior Charteer Township",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surf_board001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surf_board001.jpg",
 				"name": "Surf Board",
-                "category": "Sports,Minimal"
+                "category": "运动,清新"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surfing_down_a_wave001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surfing_down_a_wave001.jpg",
 				"name": "Surfing Down a Wave",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surfing001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/surfing001.jpg",
 				"name": "Surfing",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/swirling001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/swirling001.jpg",
 				"name": "Swirling",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tennis_net001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tennis_net001.jpg",
 				"name": "Tennis Net",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art001.jpg",
 				"name": "Texture Art",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art002.jpg",
 				"name": "Texture Art",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art003.jpg",
 				"name": "Texture Art",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art004.jpg",
 				"name": "Texture Art",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/texture_art005.jpg",
 				"name": "Texture Art",
-                "category": "Abstract"
+                "category": "抽象"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/the_fearless_one001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/the_fearless_one001.jpg",
 				"name": "Fearless One",
-                "category": "Animals,Dark/Black"
+                "category": "动物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/today_is_a_good_day001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/today_is_a_good_day001.jpg",
 				"name": "Good Day",
-                "category": "Dark/Black,Quotes"
+                "category": "暗黑风,Q风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tokyo_infinity001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tokyo_infinity001.jpg",
 				"name": "Tokyo Infinity",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toronto_financial_district001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toronto_financial_district001.jpg",
 				"name": "Toronto Financial District",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi_in_raincoat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi_in_raincoat001.jpg",
 				"name": "Toshi in Raincoat",
-                "category": "Animals,Cute"
+                "category": "动物,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi001.jpg",
 				"name": "Toshi",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/toshi002.jpg",
 				"name": "Toshi",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/umbrella001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/umbrella001.jpg",
 				"name": "Umbrellas",
-                "category": "Art/Design"
+                "category": "设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/valley_of_fires001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/valley_of_fires001.jpg",
 				"name": "Valley of Fires",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/vehicle001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/vehicle001.jpg",
 				"name": "Vehicle",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/vintage_grille_and_headlight001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/vintage_grille_and_headlight001.jpg",
 				"name": "Vintage Grille and Headlight",
-                "category": "Sports"
+                "category": "运动"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wallis_lake001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wallis_lake001.jpg",
 				"name": "Wallis Lake",
-                "category": "AerialView"
+                "category": "视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/washed_away001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/washed_away001.jpg",
 				"name": "Washed Away",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wedding001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wedding001.jpg",
 				"name": "Wedding",
-                "category": "People,Fantasy"
+                "category": "人物,梦幻"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wet_road001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wet_road001.jpg",
 				"name": "Wet Road",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wheel001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wheel001.jpg",
 				"name": "Wheel",
-                "category": "Dark/Black"
+                "category": "暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_horse001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_horse001.jpg",
 				"name": "White Horse",
-                "category": "Animals,Dark/Black"
+                "category": "动物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_sands001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_sands001.jpg",
 				"name": "White Sand",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_wash001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/white_wash001.jpg",
 				"name": "White Wash",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/winter_colours001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/winter_colours001.jpg",
 				"name": "Winter Colours",
-                "category": "Flowers/Plants"
+                "category": "植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yawning_zebra001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yawning_zebra001.jpg",
 				"name": "Yawning Zebra",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yoga001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yoga001.jpg",
 				"name": "Yoga",
-                "category": "Sports,People"
+                "category": "运动,人物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park001.jpg",
 				"name": "Yosemite Park",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park002.jpg",
 				"name": "Yosemite Park",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park003.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park003.jpg",
 				"name": "Yosemite Park",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park004.jpg",
 				"name": "Yosemite Park",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yosemite_park005.jpg",
 				"name": "Yosemite Park",
-                "category": "Nature,World"
+                "category": "自然,世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sleeping_furry_cat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sleeping_furry_cat001.jpg",
 				"name": "Sleeping Furry Cat",
-                "category": "Animals,Cute"
+                "category": "动物,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tabby_cat001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/tabby_cat001.jpg",
 				"name": "Tabby Cat",
-                "category": "Animals,Cute"
+                "category": "动物,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heart_shaped_candy001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/heart_shaped_candy001.jpg",
 				"name": "Heart Shaped Candy",
-                "category": "Food,Cute"
+                "category": "美食,可爱"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset004.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset004.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset005.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset005.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset006.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset006.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset007.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset007.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wolf001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/wolf001.jpg",
 				"name": "Wolf",
-                "category": "Animals,Abstract,Fantasy,Art/Design"
+                "category": "动物,抽象,梦幻,设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jellyfish002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/jellyfish002.jpg",
 				"name": "Jellyfish",
-                "category": "Animals"
+                "category": "动物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leafed_plant001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/leafed_plant001.jpg",
 				"name": "Leafed Plants",
-                "category": "Nature,Flowers/Plants"
+                "category": "自然,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/outside001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/outside001.jpg",
 				"name": "Outside",
-                "category": "Nature"
+                "category": "自然"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seaport001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/seaport001.jpg",
 				"name": "Sea Port",
-                "category": "Ocean/Beach,AerialView"
+                "category": "海洋,视觉"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/abandoned_aircraft001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/abandoned_aircraft001.jpg",
 				"name": "Abandoned Aircraft",
-                "category": "World"
+                "category": "世界"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yellow_flower001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yellow_flower001.jpg",
 				"name": "Yellow Flower",
-                "category": "Nature,Art/Design"
+                "category": "自然,设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/oil_scrawl001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/oil_scrawl001.jpg",
 				"name": "Oil Scrawl",
-                "category": "Abstract,Art/Design"
+                "category": "抽象,设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach006.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/beach006.jpg",
 				"name": "Beach",
-                "category": "Ocean/Beach"
+                "category": "海洋"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_betta_fish001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_betta_fish001.jpg",
 				"name": "Red Betta Fish",
-                "category": "Animals,Dark/Black"
+                "category": "动物,暗黑风"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_rose002.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/red_rose002.jpg",
 				"name": "Red Rose",
-                "category": "Nature,Fantasy,Flowers/Plants"
+                "category": "自然,梦幻,植物"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yellow_moon001.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/yellow_moon001.jpg",
 				"name": "Yellow Moon",
-                "category": "Fantasy,Art/Design"
+                "category": "梦幻,设计"
 			},
 			{
-				"author": "From the Internet",
+				"author": "网络资源",
 				"url": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset008.jpg",
 				"thumbUrl": "https://moreappteam.github.io/myapps/videowallpaper/wallpapers/sunset008.jpg",
 				"name": "Sunset",
-                "category": "Nature"
+                "category": "自然"
 			}
 		]
 }
